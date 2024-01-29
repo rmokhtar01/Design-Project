@@ -1,0 +1,102 @@
+p {
+    color: darkslategray;
+    font-size: 20px;
+    display: grid;
+}
+header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(186, 194, 199);
+    text-align: center;
+    display: inline-block;
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+.topnav {
+    background-color: rgb(186, 194, 199);
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    padding: 0px 60px;
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+}
+section {
+    height: 260px;
+    width: 200px;
+    border: 3px solid black;
+    display: inline-block;
+    padding: 0px;
+    margin: 10px;
+    background-size: 200px 260px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    z-index: 1;
+}
+textarea {
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid black;
+}
+
+.the-godfather{
+    background-image: url(The_Godfather\,_The_Game.jpg);
+}
+.psycho{
+    background-image: url(1200px-Psycho_\(1960\)_theatrical_poster_\(retouched\).jpg);
+}
+.the-shining{
+    background-image: url(MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg);
+}
+.schindlers-list{
+    background-image: url(MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg);
+}
+
+section {
+    color: darkgray;
+}
+h2 {
+    font-size: 21.5;
+    color: darkslategray;
+}
+table {
+    background-color: darkslategray;
+    border-collapse: collapse;
+    width: 25cm;
+    border-radius: 5px;
+    box-shadow: 0px 10px 30px 5px;
+    margin: 25px auto;
+    border-color: white;
+}   
+thead tr { 
+    border-bottom: 3px dashed;
+    color: white;    
+}    
+tfoot tr s{
+    border-top: 3px solid;
+}
+table thead tr td {
+    font-size: 16px;
+    letter-spacing: 1px;
+    color: white;
+    padding: 6px;
+}
+table tbody tr td { 
+    padding: 6px;     
+}
+table tbody span {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+table td {
+    color: white;
+}
+h3 {
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}

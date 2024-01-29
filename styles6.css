@@ -1,0 +1,42 @@
+header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(186, 194, 199);
+    text-align: center;
+    display: inline-block;
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+.topnav {
+    background-color: rgb(186, 194, 199);
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    padding: 0px 60px;
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    color: darkslategray;
+    font-size: 20px;
+    display: grid;
+}
+form {
+    font-size: 25px;
+    color: darkslategray;
+}
+p {
+    font-size: 25px;
+    color: darkslategray;
+}
+h2 {
+    font-size: 30px;
+    color: darkslategray;
+}
+p {
+    font-size: 20px;
+}

@@ -1,0 +1,80 @@
+header {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+.topnav {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    padding: 0px 59px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+     }
+section {
+    height: 280px;
+    width: 200px;
+    border: 3px solid white;
+    display: inline-block;
+    padding: 0px;
+    margin: 10px;
+    background-size: 200px 280px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+    z-index: 1;
+    object-fit: fill;
+    float: none;
+}    
+p {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    display: grid;
+}
+.the-exorcist {
+    background-image: url(s-l1200.jpg);
+}
+.hereditary {
+    background-image: url(MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg) ;
+}
+.the-conjuring {
+    background-image: url(MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_.jpg);
+}
+.the-shining {
+    background-image: url(MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg);
+}
+.the-texas-chainsaw-massacre {
+    background-image: url(MV5BMTU1MzY2NDc2MV5BMl5BanBnXkFtZTgwMTc3MTUzMzI@._V1_.jpg);
+}
+.scream {
+    background-image: url(MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_FMjpg_UX1000_.jpg);
+}
+.the-descent {
+    background-image: url(MV5BMjA5NzQ1NTgwNV5BMl5BanBnXkFtZTcwNjUxMzUzMw@@._V1_.jpg);
+}
+.us {
+    background-image: url(MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg);
+}
+.the-others {
+    background-image: url(TheOthers.jpg);
+}
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 21.5px;
+    color: white;
+}
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 21.5px;
+    color: white;
+}

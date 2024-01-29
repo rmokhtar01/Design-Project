@@ -1,0 +1,129 @@
+header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(186, 194, 199);
+    text-align: center;
+    display: inline-block;
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+.topnav {
+    background-color: rgb(186, 194, 199);
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    padding: 0px 60px;
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    color: darkslategray;
+    font-size: 20px;
+    display: grid;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21.5px;
+    color: darkslategray;
+}
+section {
+    height: 280px;
+    width: 200px;
+    border: 3px solid black;
+    display: inline-block;
+    padding: 0px;
+    margin: 10px;
+    background-size: 200px 280px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: black;
+    z-index: 1;
+    object-fit: fill;
+    float: none;
+}
+.catch-me-if-you-can {
+    background-image: url(catchmeifyoucan.jpg);
+}
+.scream {
+    background-image: url(MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_FMjpg_UX1000_.jpg);
+}
+.mean-girls {
+    background-image: url(meangirls.jpg);
+}
+.slc-punks {
+    background-image: url(slcpunks.jpg);
+}
+.jennifers-body {
+    background-image: url(jennifersbody.jpg);
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: darkslategray;
+}
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21.5px;
+    color: darkslategray;
+}
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21.5px;
+    color: darkslategray;
+}
+h6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: darkslategray;
+}
+.thirteen-going-on-thirty {
+    background-image: url(13goingon30.jpg);
+}
+.fifty-first-dates {
+    background-image: url(50firstdates.jpg);
+}
+.the-craft {
+    background-image: url(thecraft.jpg);
+}
+.parasite {
+    background-image: url(parasite.jpg);
+}
+.the-three-hundred {
+    background-image: url(the300.jpg);
+}
+.alien {
+    background-image: url(alien.jpg);
+}
+.zoolander {
+    background-image: url(zoolander.jpg);
+}
+.austin-powers {
+    background-image: url(austinpowers.jpg);
+}
+.the-hunger-games {
+    background-image: url(hungergames.jpg);
+}
+.slc-punk {
+    background-image: url();
+}
+.what-happened-to-monday {
+    background-image: url(monday.jpg);
+}
+.the-lord-of-the-rings {
+    background-image: url(lotr.jpg);
+}
+.snowpiercer {
+    background-image: url(snowpiercer.jpg);
+}
+.shes-the-man {
+    background-image: url(shestheman.jpg);
+}
+.knives-out {
+    background-image: url(knivesout.jpg);
+}
+
+

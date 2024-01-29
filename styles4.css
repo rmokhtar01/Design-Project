@@ -1,0 +1,93 @@
+header {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.topnav {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    padding: 0px 59px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13.5px;
+     }
+     p {
+        color: rgb(0, 0, 0);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 17px;
+        display: grid;
+    }
+    section {
+        height: 280px;
+        width: 200px;
+        border: 3px solid white;
+        display: inline-block;
+        padding: 0px;
+        margin: 10px;
+        background-size: 200px 280px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        color: black;
+        z-index: 1;
+        object-fit: fill;
+        float: none;
+    }
+    .ferris-buellers-day-off {
+        background-image: url(ferris.jpg);
+    }
+
+
+
+
+
+
+
+
+
+
+    
+    .airplane {
+        background-image: url(airplaneV1_.jpg);
+    }
+    .the-hangover {
+        background-image: url(hangover.jpg);
+    }
+    .superbad {
+        background-image: url(superbad.jpg);
+    }
+    .coming-to-america {
+        background-image: url(comingtoamerica.jpg);
+    }
+    h2 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+    }
+    h3 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+    }
+    .white-chicks {
+        background-image: url(whitechicks.jpg);
+    }
+    .monty-python-and-the-holy-grail {
+        background-image: url(montypython.jpg);
+    }
+    .freaky-friday {
+        background-image: url(Freaky_Friday_\(2003_film\).png);
+    }
+    .blended {
+        background-image: url(blended.jpg);
+    }
+    .scary-movie {
+        background-image: url(scarymovie.jpg);
+    }
